@@ -3,15 +3,18 @@ Objetivos: aprender a utilização de Next.js com Typescript e Tailwindcss
 # Instalação inicial
 - git clone
 - npm install
-para desenv -> npm run dev
+- npm run dev
 
 ## Desafio
 Bem-vindos ao segundo tech check do mês, dessa vez de Next.js!
 Nesse desafio teremos um banco que precisa implementar um sistema bem simples de login. Para isso você deve seguir os dois passos de front-end (feito especialmente pro Mário) e back-end:
 ## Front-end 
 Desenvolver a parte de front-end com Tailwind segundo [o design do Figma](https://www.figma.com/design/gB9BBAEcxrXhfxL1XwMkJX/BancoTop?node-id=0-1&t=uNwvWQbEXa5qsioe-1):
+
 ![Design](image.png)
+
 Lembre-se de setar [todas as variáveis no tailwind.config.css](https://tailwindcss.com/docs/configuration), duas já estão lá de exemplo
+
 ![Variáveis](image-2.png)
 
 ## Back-end
